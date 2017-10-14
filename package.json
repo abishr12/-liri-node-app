@@ -1,0 +1,24 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "display latest tweets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abishr12/-liri-node-app.git"
+  },
+  "keywords": [
+    "apps",
+    "twitter",
+    "spotify"
+  ],
+  "author": "Adham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abishr12/-liri-node-app/issues"
+  },
+  "homepage": "https://github.com/abishr12/-liri-node-app#readme"
+}
